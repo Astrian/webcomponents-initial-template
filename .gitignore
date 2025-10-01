@@ -1,0 +1,29 @@
+*
+
+# Metadata files
+!readme.md
+
+# Config files
+!package.json
+!package-lock.json
+!tsconfig.json
+!.gitignore
+!vite.config.ts
+!uno.config.ts
+!biome.json
+
+# Backbone files
+!index.html
+
+# Assets files
+!public/
+!public/**
+!public/**/*.svg
+
+# Source code
+!src/
+!src/**/
+!src/**/*.d.ts
+!src/**/*.tsx
+!src/**/*.css
+!src/**/*.svg

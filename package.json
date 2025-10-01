@@ -1,0 +1,25 @@
+{
+	"name": "webcomponents-initial-template",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc && vite build",
+		"preview": "vite preview",
+		"lint": "biome check .",
+		"format": "biome format --write .",
+		"check": "biome check --write ."
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.2.4",
+		"@unocss/preset-attributify": "^66.5.2",
+		"typescript": "~5.8.3",
+		"unocss": "^66.5.2",
+		"vite": "^7.0.4"
+	},
+	"dependencies": {
+		"@unocss/reset": "^66.5.2",
+		"webjsx": "^0.0.73"
+	}
+}
