@@ -17,8 +17,9 @@
 
 # Assets files
 !public/
-!public/**
+!public/**/
 !public/**/*.svg
+!public/**/*.png
 
 # Source code
 !src/
@@ -26,4 +27,3 @@
 !src/**/*.d.ts
 !src/**/*.tsx
 !src/**/*.css
-!src/**/*.svg

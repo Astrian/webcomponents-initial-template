@@ -6,6 +6,7 @@ This is a template repository for creating an initialized front-end project. Clo
 - [WebJSX](https://webjsx.org) with [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components) support (Shadow DOM not included)
 - [UnoCSS](https://unocss.dev) with Tailwind CSS-reset presets and attributify mode enabled
 - [Biome](https://biomejs.dev) with tab character indentation (instead of spaces) and avoiding semicolons
+- `.gitignore` file with whitelist mode
 
 ## But Why
 The vanilla-flavored (a.k.a. native environment) front-end is more powerful than we expected, especially for people who have a lot of experience with “modern frameworks” like React, Vue, Angular, etc. Web Components is a really powerful technology and you should have a try and consider replacing the bulky frameworks.
