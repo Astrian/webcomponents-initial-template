@@ -1,6 +1,6 @@
-import webjsxlogo from "/webjsx.png"
-import viteLogo from "/vite.svg"
 import { applyDiff } from "webjsx"
+import viteLogo from "/vite.svg"
+import webjsxlogo from "/webjsx.png"
 import "@unocss/reset/tailwind.css"
 import "virtual:uno.css"
 import "./style.css"
