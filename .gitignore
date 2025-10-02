@@ -2,6 +2,7 @@
 
 # Metadata files
 !readme.md
+!UNLICENSE
 
 # Config files
 !package.json
